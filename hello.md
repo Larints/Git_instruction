@@ -46,4 +46,8 @@ Git add
 
 * such a simbole
 
-+ 
+
+## Работа с цитатами
+
+> НАПРОЛООООМ!
+>> (c) Inoske
