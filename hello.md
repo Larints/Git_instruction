@@ -38,3 +38,12 @@ Git add
 ## Работа с картинками
 ![Картинка](https://kakoy-smysl.ru/wp-content/uploads/2022/02/inoske-v-maske-kabana-v-anime-klinok-rassekayushhij-demonov.jpg)
 [Работа с md](https://code.visualstudio.com/docs/languages/markdown)
+
+## Работа со списками
+
+1. One
+2. Two
+
+* such a simbole
+
++ 
